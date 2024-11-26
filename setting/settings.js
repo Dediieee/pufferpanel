@@ -1,7 +1,7 @@
 const fs = require('fs')
 
-global.owner = "6283896252486"
-global.footer = "Bara Wensep"
+global.owner = "6285723949522"
+global.footer = "dedi Wensep"
 
 let file = require.resolve(__filename)
 require('fs').watchFile(file, () => {
